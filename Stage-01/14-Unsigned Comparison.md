@@ -133,7 +133,7 @@ The bits are identical; the comparison's signedness changes the result.
 
 ## 6. C reconstruction
 
-**Status: Partially reconstructed.** You recognized the equivalent reverse comparison, `b < a`, but your declarations use signed `int`. That changes the meaning of the values and makes your reconstruction return `0`, not `1`.
+**Status: Partially reconstructed.** I recognized the equivalent reverse comparison, `b < a`, but your declarations use signed `int`. That changes the meaning of the values and makes your reconstruction return `0`, not `1`.
 
 Your reconstruction:
 

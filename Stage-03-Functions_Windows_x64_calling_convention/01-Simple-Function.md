@@ -57,7 +57,7 @@ int main(void)
     
 
 ```
-gcc -O0 -g -o 01-sim_if.exe 01-Simple_if.c
+gcc -O0 -g -o 01-sim_fun.exe 01-Simple_function.c
 ```
 
 ## 5. Assembly observations
